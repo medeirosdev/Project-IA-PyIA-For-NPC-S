@@ -1,0 +1,2 @@
+pip3 install spacy scikit-learn
+python -m spacy download pt_core_news_sm
